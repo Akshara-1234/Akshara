@@ -1,35 +1,34 @@
 * {
-  margin:0;
+  margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-#bg-text
-{  
-  background:A. P. J Abdul Kalam text;
+#bg-text {
+  background: A. P. J Abdul Kalam text;
   /* Below is not needed */
-  display:block;
-  opacity:10%;
+  display: block;
+  opacity: 10%;
   font-size: 190px;
-  font-family: 'Times New Roman';
+  font-family: "Times New Roman";
   text-align: center;
   margin-top: -20px;
   font-weight: bold;
   letter-spacing: -15px;
   background-size: cover;
-  transform:rotate(300deg);
-    -webkit-transform:rotate(350deg);
+  transform: rotate(300deg);
+  -webkit-transform: rotate(350deg);
 }
 .container {
-  margin:0px;
+  margin: 0px;
   width: 100%;
-  padding-top:0%;
+  padding-top: 0%;
   height: 450px;
   background-color: rgb(161, 230, 72);
   border: 10px solid #1d1e4c;
 }
 .content {
   width: fit-content;
-block-size: fit-content;
+  block-size: fit-content;
   max-width: 800px;
   margin: 0 auto;
 }
@@ -49,22 +48,22 @@ block-size: fit-content;
 }
 .top_section h4 {
   width: fit-content;
-block-size: fit-content;
+  block-size: fit-content;
   font-size: 30px;
-  text-align:initial;
+  text-align: initial;
 }
 .image_container {
   width: fit-content;
-block-size: fit-content;
+  block-size: fit-content;
   border-radius: 50%;
   overflow: hidden;
 }
 .image_container,
 img {
   width: fit-content;
-block-size: fit-content;
-  height:100%;
-  margin-top:0%;
+  block-size: fit-content;
+  height: 100%;
+  margin-top: 0%;
   margin-bottom: 0px;
   width: 200px;
   height: 320px;
@@ -72,7 +71,7 @@ block-size: fit-content;
 .about_section {
   margin-top: 50px;
   width: fit-content;
-block-size: fit-content;
+  block-size: fit-content;
 }
 .about_section h2 {
   font-size: 70px;
